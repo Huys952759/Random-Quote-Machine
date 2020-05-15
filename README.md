@@ -2,7 +2,7 @@
 
 A simple application that shows random quotes using API.
 
-Here you can see the [preview](https://Huys952759.github.io/Random-Quote-Machine"/).
+Here you can see the [preview](https://Huys952759.github.io/Random-Quote-Machine/).
 
 ## Installation
 
