@@ -14,8 +14,4 @@ To get started right away:
 
 ## User Stories
 
-User can see a random quote and its author displayed by the machine.
-
-When user clicks the button a new quote is fetched.
-
-User can tweet the current quote by clicking on the Twitt button.
+when entering GitHub flavored markdown into editors, the text is rendered as HTML in the previewer
