@@ -1,4 +1,4 @@
-# Front End Libraries Projects - Build a Random Quote Machine
+# Fcc - Front End Libraries Projects - Build a Random Quote Machine
 
 A simple application that shows random quotes using API.
 
